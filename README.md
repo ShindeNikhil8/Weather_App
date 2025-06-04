@@ -31,15 +31,15 @@ A beautiful, functional, and responsive **Weather App** built using **HTML**, **
 <table>
   <tr>
     <td align="center">
-      <img src="Screenshots/location_access.png" alt="Grant Location Access" width="280"/>
+      <img src="Screenshots/Grant_Location.png" alt="Grant Location Access" width="380"/>
       <br><em>Grant Location</em>
     </td>
     <td align="center">
-      <img src="Screenshots/weather_info.png" alt="Weather Info Display" width="280"/>
+      <img src="Screenshots/Weather_Display.png" alt="Weather Info Display" width="380"/>
       <br><em>Weather Display</em>
     </td>
     <td align="center">
-      <img src="Screenshots/search_city.png" alt="Search Weather" width="280"/>
+      <img src="Screenshots/City_Search.png" alt="Search Weather" width="380"/>
       <br><em>City Search</em>
     </td>
   </tr>
