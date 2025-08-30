@@ -1,6 +1,6 @@
 # 🌤️ Weather App
 
-**Live Demo ➜** [Click here to try!]([https://yourusername.github.io/weather-app/](https://shindenikhil8.github.io/Weather_App/))  
+**Live Demo ➜** [Click here to try!]([https://yourusername.github.io/weather-app/])  
 
 A beautiful, functional, and responsive **Weather App** built using **HTML**, **CSS**, and **JavaScript** that fetches live weather data using the **OpenWeatherMap API**. Get weather by your current location or search for any city worldwide.
 
